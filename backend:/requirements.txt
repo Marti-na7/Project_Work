@@ -1,0 +1,11 @@
+flask 
+
+flask-cors 
+
+flask-jwt-extended 
+
+psycopg2-binary 
+
+sqlite3 
+
+email-validator 
